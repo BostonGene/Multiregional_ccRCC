@@ -1,0 +1,44 @@
+	Cell_type	First_level	Second_level_old	Second_level_old2	Second_level	Second_level_label_old2	Second_level_label_old	Second_level_label	Third_level_label	Third_level	Third_level_old	Merge	metacluster_raw
+0	Macro	Macro_1_1	1	1	Macro_2_1	Monocytes	Monocytes	Monocytes	Monocytes	Macro_3_1	Macro_3_12		Macro_3_12
+1	Macro	Macro_1_1	2	1	Macro_2_2	Monocytes	cDC1	cDC1	cDC1	Macro_3_2	Macro_3_7	7.0	Macro_3_7
+2	Macro	Macro_1_1	2	2	Macro_2_2	Monocytes PDL1+	cDC1 PDL1+	cDC1 PDL1+	cDC1 PDL1+	Macro_3_3	Macro_3_1		Macro_3_1
+3	Macro	Macro_1_1	2	3	Macro_2_2	CD163+	cDC1 CD163 med	cDC1	cDC1	Macro_3_2	Macro_3_7	7.0	Macro_3_11
+4	Macro	Macro_1_1	3	5	Macro_2_3	CD163+ CD68+ PDL1+	M2 (PDL1+)	M2 (PDL1+)	CD163+ PDL1+ CD16+	Macro_3_4	Macro_3_14		Macro_3_14
+5	Macro	Macro_1_1	3	5	Macro_2_3	CD163+ CD68+ PDL1+	M2 (PDL1+)	M2 (PDL1+)	CD163+  PDL1+ CD11c-	Macro_3_5	Macro_3_5		Macro_3_5
+6	Macro	Macro_1_1	3	5	Macro_2_3	CD163+ CD68+ PDL1+	M2 (PDL1+)	M2 (PDL1+)	CD163+  PDL1+ LAMP+++	Macro_3_6	Macro_3_2		Macro_3_2
+7	Macro	Macro_1_1	3	4	Macro_2_3	CD163+ CD68+	M2	M2	CD163+	Macro_3_7	Macro_3_9		Macro_3_9
+8	Macro	Macro_1_2	4	6	Macro_2_4	CD68+	CD163- CD68+	CD163- CD68+	CD163- CD68+	Macro_3_8	Macro_3_4	4.0	Macro_3_4
+9	Macro	Macro_1_2	4	6	Macro_2_4	CD68+	CD163- CD68+	CD163- CD68+	CD163- CD68+	Macro_3_8	Macro_3_4	4.0	Macro_3_15
+10	Macro	Macro_1_2	5	7	Macro_2_5	Markers negative macrophages	Myeloid cells	Myeloid cells	Myeloid cells	Macro_3_9	Macro_3_0	0.0	Macro_3_3
+11	Macro	Macro_1_2	5	7	Macro_2_5	Markers negative macrophages	Myeloid cells	Myeloid cells	Myeloid cells	Macro_3_9	Macro_3_0	0.0	Macro_3_0
+12	Macro	Macro_1_2	6	8	Macro_2_6	CD16+ monocytes	CD16+ monocytes	CD16+ monocytes	CD16+ monocytes	Macro_3_10	Macro_3_8		Macro_3_8
+13	CD4	CD4_1_1	1	1	CD4_2_1	Naive	Naive	Tcm	Tcm	CD4_3_1	CD4_3_0		CD4_3_0
+14	CD4	CD4_1_1	1	1	CD4_2_1	Naive	Naive	Tcm	Tcm CD69+	CD4_3_2	CD4_3_7		CD4_3_7
+15	CD4	CD4_1_1	2	2	CD4_2_1	Memory	TCM	Tcm	Tcm CD69neg IL-7R low	CD4_3_3	CD4_3_5		CD4_3_5
+16	CD4	CD4_1_1	2	2	CD4_2_2	Memory	TCM	Tem CD69+	Tem CD69+ CD38+	CD4_3_4	CD4_3_3		CD4_3_3
+17	CD4	CD4_1_1	2	3	CD4_2_2	Memory	TCM	Tem CD69+	Tem CD69+ CD38neg	CD4_3_5	CD4_3_17		CD4_3_17
+18	CD4	CD4_1_1	2	3	CD4_2_3	Memory	TCM	Tem	Tem CD69neg	CD4_3_6	CD4_3_4		CD4_3_4
+19	CD4	CD4_1_2	3	4	CD4_2_4	Effector memory	TRM	Tef	Tef CD69neg	CD4_3_7	CD4_3_15		CD4_3_15
+20	CD4	CD4_1_2	3	4	CD4_2_4	Effector memory	TRM	Tef	Tef CD69+	CD4_3_8	CD4_3_10		CD4_3_10
+21	CD4	CD4_1_2	3	4	CD4_2_5	Effector memory	TRM PD1+	Tef PD1+	Tef CD69+ CD38neg PD1+	CD4_3_9	CD4_3_1		CD4_3_1
+22	CD4	CD4_1_2	3	4	CD4_2_5	Effector memory	TRM PD1+	Tef PD1+	Tef CD69+ CD38+ PD1+	CD4_3_10	CD4_3_16		CD4_3_16
+23	CD4	CD4_1_2	4	5	CD4_2_6	Cytotoxic	Cytotoxic	Cytotoxic	Cytotoxic GRZ+	CD4_3_11	CD4_3_2		CD4_3_2
+24	CD4	CD4_1_2	5	5	CD4_2_7	Cytotoxic	Tex (PD1+)	Tex (PD1+)	Tex (PD1+)	CD4_3_12	CD4_3_14		CD4_3_14
+25	CD4	CD4_1_2	6	6	CD4_2_8	T regs	T regs	T regs	T regs CD38neg	CD4_3_13	CD4_3_6		CD4_3_6
+26	CD4	CD4_1_2	6	6	CD4_2_8	T regs	T regs	T regs	T regs CD38+	CD4_3_14	CD4_3_11		CD4_3_11
+27	CD8	CD8_1_1	1	1	CD8_2_1	Naive	Naive	Tcm	Tcm	CD8_3_1	CD8_3_0	0.0	CD8_3_14
+28	CD8	CD8_1_1	1	1	CD8_2_1	Naive	Naive	Tcm	Tcm	CD8_3_1	CD8_3_0	0.0	CD8_3_0
+29	CD8	CD8_1_2	2	2	CD8_2_1	Memory	TCM	Tcm	Tcm IL-7Rlow	CD8_3_2	CD8_3_10		CD8_3_10
+30	CD8	CD8_1_2	2	2	CD8_2_1	Memory	TCM	Tcm	Tcm IL-7Rlow CD69+ PD1+	CD8_3_3	CD8_3_1		CD8_3_1
+31	CD8	CD8_1_2	3	3	CD8_2_2	Effector memory	TRM	Tem	Tem CD38+	CD8_3_4	CD8_3_2		CD8_3_2
+32	CD8	CD8_1_2	3	3	CD8_2_2	Effector memory	TRM	Tem	Tem CD38neg	CD8_3_5	CD8_3_15		CD8_3_15
+33	CD8	CD8_1_2	4	4	CD8_2_3	Effector memory PD1+	TRM PD1+	Tem PD1+	Tem PD1+ CD69neg CD38+	CD8_3_6	CD8_3_4		CD8_3_4
+34	CD8	CD8_1_2	4	4	CD8_2_3	Effector memory PD1+	TRM PD1+	Tem PD1+	Tem PD1+ CD69+ CD38neg	CD8_3_7	CD8_3_8		CD8_3_8
+35	CD8	CD8_1_2	4	4	CD8_2_3	Effector memory PD1+	TRM PD1+	Tem PD1+	Tem PD1+ CD69+ CD38+	CD8_3_8	CD8_3_12	12.0	CD8_3_13
+36	CD8	CD8_1_2	4	4	CD8_2_3	Effector memory PD1+	TRM PD1+	Tem PD1+	Tem PD1+ CD69+ CD38+	CD8_3_8	CD8_3_12	12.0	CD8_3_12
+37	CD8	CD8_1_2	4	4	CD8_2_3	Effector memory PD1+	TRM PD1+	Tem PD1+	Tem PD1+ CD69neg CD38neg	CD8_3_9	CD8_3_17		CD8_3_17
+38	CD8	CD8_1_2	5	5	CD8_2_4	Effector cytotoxic	Tex (CD57+, PD1+)	Tex (CD57+, PD1+)	Tex (CD57+, PD1+)	CD8_3_10	CD8_3_19		CD8_3_19
+39	CD8	CD8_1_2	6	5	CD8_2_5	Effector cytotoxic	Cytotoxic	Cytotoxic	GRZ+ CD57+ CD45RA-	CD8_3_11	CD8_3_7		CD8_3_7
+40	CD8	CD8_1_2	6	5	CD8_2_5	Effector cytotoxic	Cytotoxic	Cytotoxic	GRZ+ CD57+ CD45RA+	CD8_3_12	CD8_3_3		CD8_3_3
+41	CD8	CD8_1_2	6	5	CD8_2_5	Effector cytotoxic	Cytotoxic	Cytotoxic	GRZ+ CD57low CD56+	CD8_3_13	CD8_3_9	9.0	CD8_3_16
+42	CD8	CD8_1_2	6	5	CD8_2_5	Effector cytotoxic	Cytotoxic	Cytotoxic	GRZ+ CD57low CD56+	CD8_3_13	CD8_3_9	9.0	CD8_3_9

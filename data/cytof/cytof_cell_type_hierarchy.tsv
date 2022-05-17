@@ -1,0 +1,44 @@
+	Cell_type	Second_level	Second_level_label	Third_level	Third_level_label
+0	Macro	Macro_2_1	Monocytes	Macro_3_1	Monocytes
+1	Macro	Macro_2_2	cDC1	Macro_3_2	cDC1
+2	Macro	Macro_2_2	cDC1 PDL1+	Macro_3_3	cDC1 PDL1+
+3	Macro	Macro_2_2	cDC1	Macro_3_2	cDC1
+4	Macro	Macro_2_3	M2 (PDL1+)	Macro_3_4	CD163+ PDL1+ CD16+
+5	Macro	Macro_2_3	M2 (PDL1+)	Macro_3_5	CD163+  PDL1+ CD11c-
+6	Macro	Macro_2_3	M2 (PDL1+)	Macro_3_6	CD163+  PDL1+ LAMP+++
+7	Macro	Macro_2_3	M2	Macro_3_7	CD163+
+8	Macro	Macro_2_4	CD163- CD68+	Macro_3_8	CD163- CD68+
+9	Macro	Macro_2_4	CD163- CD68+	Macro_3_8	CD163- CD68+
+10	Macro	Macro_2_5	Myeloid cells	Macro_3_9	Myeloid cells
+11	Macro	Macro_2_5	Myeloid cells	Macro_3_9	Myeloid cells
+12	Macro	Macro_2_6	CD16+ monocytes	Macro_3_10	CD16+ monocytes
+13	CD4	CD4_2_1	Tcm	CD4_3_1	Tcm
+14	CD4	CD4_2_1	Tcm	CD4_3_2	Tcm CD69+
+15	CD4	CD4_2_1	Tcm	CD4_3_3	Tcm CD69neg IL-7R low
+16	CD4	CD4_2_2	Tem CD69+	CD4_3_4	Tem CD69+ CD38+
+17	CD4	CD4_2_2	Tem CD69+	CD4_3_5	Tem CD69+ CD38neg
+18	CD4	CD4_2_3	Tem	CD4_3_6	Tem CD69neg
+19	CD4	CD4_2_4	Tef	CD4_3_7	Tef CD69neg
+20	CD4	CD4_2_4	Tef	CD4_3_8	Tef CD69+
+21	CD4	CD4_2_5	Tef PD1+	CD4_3_9	Tef CD69+ CD38neg PD1+
+22	CD4	CD4_2_5	Tef PD1+	CD4_3_10	Tef CD69+ CD38+ PD1+
+23	CD4	CD4_2_6	Cytotoxic	CD4_3_11	Cytotoxic GRZ+
+24	CD4	CD4_2_7	Tex (PD1+)	CD4_3_12	Tex (PD1+)
+25	CD4	CD4_2_8	T regs	CD4_3_13	T regs CD38neg
+26	CD4	CD4_2_8	T regs	CD4_3_14	T regs CD38+
+27	CD8	CD8_2_1	Tcm	CD8_3_1	Tcm
+28	CD8	CD8_2_1	Tcm	CD8_3_1	Tcm
+29	CD8	CD8_2_1	Tcm	CD8_3_2	Tcm IL-7Rlow
+30	CD8	CD8_2_1	Tcm	CD8_3_3	Tcm IL-7Rlow CD69+ PD1+
+31	CD8	CD8_2_2	Tem	CD8_3_4	Tem CD38+
+32	CD8	CD8_2_2	Tem	CD8_3_5	Tem CD38neg
+33	CD8	CD8_2_3	Tem PD1+	CD8_3_6	Tem PD1+ CD69neg CD38+
+34	CD8	CD8_2_3	Tem PD1+	CD8_3_7	Tem PD1+ CD69+ CD38neg
+35	CD8	CD8_2_3	Tem PD1+	CD8_3_8	Tem PD1+ CD69+ CD38+
+36	CD8	CD8_2_3	Tem PD1+	CD8_3_8	Tem PD1+ CD69+ CD38+
+37	CD8	CD8_2_3	Tem PD1+	CD8_3_9	Tem PD1+ CD69neg CD38neg
+38	CD8	CD8_2_4	Tex (CD57+, PD1+)	CD8_3_10	Tex (CD57+, PD1+)
+39	CD8	CD8_2_5	Cytotoxic	CD8_3_11	GRZ+ CD57+ CD45RA-
+40	CD8	CD8_2_5	Cytotoxic	CD8_3_12	GRZ+ CD57+ CD45RA+
+41	CD8	CD8_2_5	Cytotoxic	CD8_3_13	GRZ+ CD57low CD56+
+42	CD8	CD8_2_5	Cytotoxic	CD8_3_13	GRZ+ CD57low CD56+
