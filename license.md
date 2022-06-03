@@ -6,7 +6,7 @@ The BostonGene MF PortraitTM web-based tool is provided to the research communit
 
 As used in this limited license and terms of use, “Code” means this website, all software code running this website, all software code associated with this website, all pictorial or graphic representations of data on this website, and all software code and associated the following manuscript, no matter how the Code is accessed or obtained:
 
-> Alexander Bagaev, Nikita Kotlov, Krystle Nomie, Viktor Svekolkin, Nikita Osokin, Ivan Kozlov, Felix Frenkel, Olga Gancharova, Nava Almog, Maria Tsiper, Ravshan Ataullakhanov, Nathan Fowler, “Integrated tumor exome and transcriptome analyses reveal conserved pan-cancer microenvironment subtypes predictive of response to immunotherapy,” in press.
+> Natalia Miheecheva, Ekaterina Postovalova, Alexander Bagaev, Viktor Svekolkin, Ilia Galkin, Vladimir Zyrin, Vladislav Maximov, Yaroslav Lozinsky, Sergey Isaev, Pavel Ovcharov, Diana Shamsutdinova, Krystle Nomie, Jessica Brown, Maria Tsiper, Ravshan Ataullakhanov, Nathan Fowler, "Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity" in press. 
 
 BY UTILIZING THE CODE, YOU ARE CONSENTING TO BE AND AGREE TO BE BOUND BY ALL OF THE TERMS OF THIS LIMITED LICENSE, WHICH FOLLOW:
 
