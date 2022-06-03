@@ -2,9 +2,9 @@ Copyright 2022. BostonGene Corporation. All rights reserved, except those expres
 
 ***\*\*\*Limited License and Terms of Use for Research Use by Non-Profit and Government Institutions******
 
-The BostonGene MF PortraitTM web-based tool is provided to the research community to explore the personalized tumor maps of the TCGA data utilized in our manuscript, below.
+The Multiregional analysis of ccRCC is provided to the research community to explore data utilized in our manuscript, below.
 
-As used in this limited license and terms of use, “Code” means this website, all software code running this website, all software code associated with this website, all pictorial or graphic representations of data on this website, and all software code and associated the following manuscript, no matter how the Code is accessed or obtained:
+As used in this limited license and terms of use, “Code” means this analysis, all software code running this analysis, all software code associated with this analysis, all pictorial or graphic representations of data on this analysis, and all software code and associated the following manuscript, no matter how the Code is accessed or obtained:
 
 > Natalia Miheecheva, Ekaterina Postovalova, Alexander Bagaev, Viktor Svekolkin, Ilia Galkin, Vladimir Zyrin, Vladislav Maximov, Yaroslav Lozinsky, Sergey Isaev, Pavel Ovcharov, Diana Shamsutdinova, Krystle Nomie, Jessica Brown, Maria Tsiper, Ravshan Ataullakhanov, Nathan Fowler, "Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity" in press. 
 
